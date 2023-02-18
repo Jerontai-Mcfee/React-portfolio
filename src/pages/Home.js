@@ -26,7 +26,7 @@ function Home() {
         Front-End
       </h2>
       <span>
-      ReactJS, Angular, Redux, HTML, CSS,   NPM,
+      ReactJS, Angular, HTML, CSS,   NPM,
                BootStrap,  StyledComponents and willing to learn more.
       </span>
       </li>
