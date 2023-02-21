@@ -4,6 +4,7 @@ import EmailIcon from "@material-ui/icons/Email";
 import GithubIcon from "@material-ui/icons/GitHub";
 import "../styles/Home.css";
 
+
 function Home() {
   return (
     <div className='home' >
@@ -11,11 +12,16 @@ function Home() {
   <h2>Hi, My Name is Je'Rontai Mcfee</h2>
   <div className='prompt'> 
    <p>
-   I am a very passionate student at the Georgia Institute of Technology. I have Developed and Honed my skills in their Full-stack Web Developer program.  </p>
-   
+   I am a very passionate student participating in the Georgia Institute of Technology full-stack web development certification program. I have developed and Honed my skills in their Full-stack Web Developer program.  </p>
+   <a href="https://www.linkedin.com/in/jerontai-mcfee-45809859">
    <LinkedInIcon />
+   </a>
+   <a href="mailto:jerontai07@gmail.com">
    <EmailIcon />
+   </a>
+   <a href="https://github.com/Jerontai-Mcfee">
    <GithubIcon />
+   </a>
    </div>
    </div>
 <div className='skills'>
