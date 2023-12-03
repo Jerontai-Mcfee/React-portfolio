@@ -13,6 +13,7 @@ Link:https://jay-portfolio.herokuapp.com/
  - [License](#license)
  - [Resources](#resources)
  - [Questions](#questions)
+ - [Screenshots](#Screenshots)
 
 
  ## Technical Skills
@@ -36,3 +37,8 @@ API, REST, HTTP Request
 If there are any questions or concerns, please contact me at:<br>
 [GitHub](https://github.com/Jerontai-Mcfee)<br>
 [Email](mailto:jerontai07@gmail.com)
+
+#Screenshots
+![Alt text](src/assets/images/ReactPortfolio.png)
+![Alt text](src/assets/images/ReactPortfolio3.png)
+
