@@ -6,7 +6,7 @@ I am a very passionate student at the Georgia Institute of Technology. I have De
 
 
 Link: https://jerontai-mcfee.github.io/React-portfolio/
-Link:https://jay-portfolio.herokuapp.com/
+Link: https://react-portfolio-37ia.onrender.com/
 
 ## Table Of Contents 
  - [Technical Skills](#technical-skills)
